@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+xmlns:tht="http://www.tubessemanticweb/namespace#">
+
+    
+
+ <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // TANAMAN HERBAL OBAT KELUARGA
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+<!--OBAT HERBAL-->
+
+<tht:obat rdf:about="https://caratanam.com/tanaman-obat/obat/Belimbing_wuluh#">
+		<tht:nama>Belimbing Wuluh</tht:nama>
+		<tht:ilmiah>Averrhoa bilimbi</tht:ilmiah>
+		<tht:asal>Asia tropik</tht:asal>
+		<tht:manfaat>bermanfaat untuk mengobati gusi berdarah, obat rematik, obat godongan, obat sariawan, obat pegel linu serta bisa digunakan sebagai obat sakit gigi.</tht:manfaat>
+		<tht:famili>Oxalidaceae</tht:famili>
+		<tht:genus>Averrhoa</tht:genus>
+		<tht:spesies>A.bilimbi</tht:spesies>
+		<tht:gambar rdf:resource="https://i1.wp.com/caratanam.com/wp-content/uploads/2015/12/belimbing-wuluh.jpg"/>
+</tht:obat>
+
+<tht:obat rdf:about="https://caratanam.com/tanaman-obat/obat/Temulawak#">
+		<tht:nama>Temulawak</tht:nama>
+		<tht:ilmiah>Curcuma Xanthorrhiza</tht:ilmiah>
+		<tht:asal>Asia tropik</tht:asal>
+		<tht:manfaat>untuk mengatasi gangguan ginjal, melancarkan pencernaan, menyehatkan jantung, dan menjaga kesehatan hati.</tht:manfaat>
+		<tht:famili>Zingiberaceae</tht:famili>
+		<tht:genus>Curcuma</tht:genus>
+		<tht:spesies>C.zanthorriza</tht:spesies>
+        <tht:gambar rdf:resource="https://i2.wp.com/caratanam.com/wp-content/uploads/2015/12/Tanaman-Obat-Temu-Lawak.jpg"/>
+</tht:obat>
+    
+    
+
+<tht:obat rdf:about="https://caratanam.com/tanaman-obat/obat/Lidah_buaya#">
+		<tht:nama>Lidah Buaya</tht:nama>
+		<tht:ilmiah>Aloe Vera</tht:ilmiah>
+		<tht:asal>Asia tropik</tht:asal>
+		<tht:manfaat>tanaman obat lidah buaya berkhasiat untuk mengobati penyakit serangan jantung, diabetes, radang tenggorokan, sembelit, dan masih banyak jenis penyakit lain yang bisa diobati dengan tanaman ini.</tht:manfaat>
+		<tht:famili>Asphodelaceae</tht:famili>
+		<tht:genus>Aloe</tht:genus>
+		<tht:spesies>A.vera</tht:spesies>
+		<tht:gambar rdf:resource="https://i2.wp.com/caratanam.com/wp-content/uploads/2015/12/Manfaat-Tanaman-Lidah-Buaya.jpg"/>
+</tht:obat>
+
+<tht:obat rdf:about="https://caratanam.com/tanaman-obat/obat/Kumis_kucing#">
+		<tht:nama>Kumis Kucing</tht:nama>
+		<tht:ilmiah>Orthosiphon aristatus</tht:ilmiah>
+		<tht:asal>Indonesia</tht:asal>
+		<tht:manfaat>melancarkan saluran kemih, mengobati rematik, asam urat, batuk, diabetes, hipertensi, gusi bengkak, serta meringankan luka di kulit</tht:manfaat>
+		<tht:famili>Lamiaceae</tht:famili>
+		<tht:genus>Orthosiphon</tht:genus>
+		<tht:spesies>O.aristatus</tht:spesies>
+		 <tht:gambar rdf:resource="https://i2.wp.com/caratanam.com/wp-content/uploads/2015/12/Tanaman-Obat-Kumis-Kucing.jpg"/>
+</tht:obat>
+
+<tht:obat rdf:about="https://caratanam.com/tanaman-obat/obat/Keji_beling#">
+		<tht:nama>Keji Beling</tht:nama>
+		<tht:ilmiah>Strobilanthes crispa</tht:ilmiah>
+		<tht:asal>Madagaskar sampai Indonesia</tht:asal>
+		<tht:manfaat>diabetes, kanker, tumor, batu ginjal, wasir, ambeien, menangkal radikal bebas, dan juga bisa meringankan depresi</tht:manfaat>
+		<tht:famili>Acanthaceae</tht:famili>
+		<tht:genus>Strobilanthes</tht:genus>
+		<tht:spesies>S.crispa</tht:spesies>
+		<tht:gambar rdf:resource="https://i1.wp.com/caratanam.com/wp-content/uploads/2015/12/Tanaman-Obat-Keji-Beling.jpg"/>
+</tht:obat>
+
+<tht:obat rdf:about="https://caratanam.com/tanaman-obat/obat/Daun_jarak#">
+		<tht:nama>Daun Jarak</tht:nama>
+		<tht:ilmiah>Ricinius Communis</tht:ilmiah>
+		<tht:asal>Asia tropik</tht:asal>
+		<tht:manfaat>mengobati penyakit gatal-gatal, luka berdarah, jamur pada kulit, rematik, dan bengkak karena luka. Selain itu tanaman ini juga bisa digunakan untuk mengobati perut kembung pada anak.</tht:manfaat>
+		<tht:famili>Euphorbiaceae</tht:famili>
+		<tht:genus>Ricinus</tht:genus>
+		<tht:spesies>Ricinus communis</tht:spesies>
+		<tht:gambar rdf:resource="https://i1.wp.com/caratanam.com/wp-content/uploads/2015/12/Khasiat-dari-Daun-Jarak.jpg"/>
+</tht:obat>
+
+<tht:obat rdf:about="https://caratanam.com/tanaman-obat/obat/Beluntas#">
+		<tht:nama>Beluntas</tht:nama>
+		<tht:ilmiah>Pluchea Indica</tht:ilmiah>
+		<tht:asal>Asia tropis</tht:asal>
+		<tht:manfaat>dimanfaatkan sebagai obat herbal yang ampuh untuk mengatasi bau badan, pegel linu, menghilangkan bau mulut, mengobati keputihan, mengobati rematik, perut kembung, dan mengilangkan nyeri pinggang.</tht:manfaat>
+		<tht:famili>Asteraceae</tht:famili>
+		<tht:genus>Pluchea</tht:genus>
+		<tht:spesies>P.indica</tht:spesies>
+		 <tht:gambar rdf:resource="https://i0.wp.com/caratanam.com/wp-content/uploads/2015/12/Tanaman-Obat-dan-Khasiat-Daun-Beluntas.jpg"/>
+</tht:obat>
+
+<tht:obat rdf:about="https://caratanam.com/tanaman-obat/obat/Sambiloto#">
+		<tht:nama>Sambiloto</tht:nama>
+		<tht:ilmiah>Andrographis paniculata</tht:ilmiah>
+		<tht:asal>Asia Tropica</tht:asal>
+		<tht:manfaat>menurunkan demam, anti-parasit dan bakteri, meningkatkan sistem kekebalan tubuh, mencegah kanker, mencegah diabetes, mengatasi flu, meningkatkan fungsi hati, mencegah penyakit jantung, membantu menyembuhkan infeksi sinusitis, baik untuk pencernaan, serta mengatasi anemia</tht:manfaat>
+		<tht:famili>Acanthaceae</tht:famili>
+		<tht:genus>Andrographis</tht:genus>
+		<tht:spesies>Andrographis paniculata Nees</tht:spesies>
+		<tht:gambar rdf:resource="https://i1.wp.com/caratanam.com/wp-content/uploads/2015/12/Tanaman-Sambiloto.jpg"/>
+</tht:obat>
+
+<tht:obat rdf:about="https://caratanam.com/tanaman-obat/obat/Daun_dewa#">
+		<tht:nama>Daun Dewa</tht:nama>
+		<tht:ilmiah>Gynura Divaricata</tht:ilmiah>
+		<tht:asal>Indonesia</tht:asal>
+		<tht:manfaat>enis penyakit yang bisa diobati dengan daun ini adalah kanker, tekanan darah tinggi, wasir, diabetes militus, dan pendarahan. Selain itu tanaman ini juga bisa digunakan untuk mengobati luka memar, pembersih racun, serta berbagai manfaat lainnya.</tht:manfaat>
+		<tht:famili>Asteraceae</tht:famili>
+		<tht:genus>Gynura</tht:genus>
+		<tht:spesies>G.procumbens</tht:spesies>
+		<tht:gambar rdf:resource="https://i1.wp.com/caratanam.com/wp-content/uploads/2015/12/Daun-Dewa-sebagai-Tanaman-Obat.jpg"/>
+</tht:obat>
+
+<tht:obat rdf:about="https://caratanam.com/tanaman-obat/obat/Daun_cincau#">
+		<tht:nama>Daun Cincau</tht:nama>
+		<tht:ilmiah>Cylea Barbata</tht:ilmiah>
+		<tht:asal>Asia tenggara</tht:asal>
+		<tht:manfaat>Manfaat dari tanaman obat yang satu ini adalah sebagai obat demam, obat diabetes militus, radang lambung, dan mengobati sakit types.</tht:manfaat>
+		<tht:famili>Menispermaceae</tht:famili>
+		<tht:genus>CYlea</tht:genus>
+		<tht:spesies>Cylea barbata</tht:spesies>
+		<tht:gambar rdf:resource="https://i2.wp.com/caratanam.com/wp-content/uploads/2015/12/Manfaat-Daun-Cincau.jpg"/>
+</tht:obat>
+
+<tht:obat rdf:about="https://caratanam.com/tanaman-obat/obat/Alang_alang#">
+		<tht:nama>Alang alang</tht:nama>
+		<tht:ilmiah>Apium Graviolens</tht:ilmiah>
+		<tht:asal>Seluruh Dunia</tht:asal>
+		<tht:manfaat>manfaat bagi kesehatan diantarnya adalah untuk obat panas dalam, mengatasi sakit ginjal, mengatasi mimisan, kencing batu, keputihan dan segudang manfaat lainnya.</tht:manfaat>
+		<tht:famili>Poaceae</tht:famili>
+		<tht:genus>Imperata</tht:genus>
+		<tht:spesies>I.Cylindrica</tht:spesies>
+		<tht:gambar rdf:resource="https://i1.wp.com/caratanam.com/wp-content/uploads/2015/12/Tanaman-Obat-Akar-Ilalang.jpg"/>
+</tht:obat>
+
+<tht:obat rdf:about="https://caratanam.com/tanaman-obat/obta/Tempuyung#">
+		<tht:nama>Tempuyung</tht:nama>
+		<tht:ilmiah>Perennial sow thistle</tht:ilmiah>
+		<tht:asal>Asia tenggara</tht:asal>
+		<tht:manfaat>mengurangi kadar asam urat, mengatasi batu ginjal, mencegah hipertensi, menyembuhkan peradangan, dan mengobati luka bakar atau memar</tht:manfaat>
+		<tht:famili>Asteraceae</tht:famili>
+		<tht:genus>Sonchus</tht:genus>
+		<tht:spesies>S. arvensis</tht:spesies>
+        <tht:gambar rdf:resource="https://i2.wp.com/caratanam.com/wp-content/uploads/2015/12/Tanaman-Obat-Daun-Tempuyung.jpg"/>
+</tht:obat>
+
+<tht:obat rdf:about="https://caratanam.com/tanaman-obat/obat/Bunga_kenop#">
+		<tht:nama>Bunga Kenop</tht:nama>
+		<tht:ilmiah>Gomphrena globosa</tht:ilmiah>
+		<tht:asal>Amerika Tengaha</tht:asal>
+		<tht:manfaat>mengobati radang mata, sakit kepala, demam, disentri, batuk, asma, juga menambah nafsu makan</tht:manfaat>
+		<tht:famili>Amaranthaceae</tht:famili>
+		<tht:genus>Gomphrena</tht:genus>
+		<tht:spesies>Gomphrena globosa</tht:spesies>
+		<tht:gambar rdf:resource="https://i1.wp.com/caratanam.com/wp-content/uploads/2015/12/Tanaman-Obat-Bunga-Kenop.jpg"/>
+</tht:obat>
+
+<tht:obat rdf:about="https://caratanam.com/tanaman-obat/obat/pegagan#">
+		<tht:nama>Pegagan</tht:nama>
+		<tht:ilmiah>Centella Asiatica</tht:ilmiah>
+		<tht:asal>Asia tropik</tht:asal>
+		<tht:manfaat>meningkatkan fungsi otak dan daya ingat, mengatasi depresi, memperbaiki sirkulasi darah, menyamarkan stretchmark, menyembuhkan luka, sampai mengobati penyakit alzheimer</tht:manfaat>
+		<tht:famili>Mackinlayaceae</tht:famili>
+		<tht:genus>Centella</tht:genus>
+		<tht:spesies>C.asiatica</tht:spesies>
+		<tht:gambar rdf:resource="https://i1.wp.com/caratanam.com/wp-content/uploads/2015/12/Tanaman-Obat-Daun-Pegagan.jpg"/>
+</tht:obat>
+
+<tht:obat rdf:about="https://caratanam.com/tanaman-obat/obat/Patah_tulang#">
+		<tht:nama>Patah Tulang</tht:nama>
+		<tht:ilmiah>Euphorbia tirucall</tht:ilmiah>
+		<tht:asal>Tropis</tht:asal>
+		<tht:manfaat>Untuk mengobati patah tulang, sakit gigi, penyakit kulit, dan juga cedera ringan</tht:manfaat>
+		<tht:famili>Euphorbiaceae</tht:famili>
+		<tht:genus>Euphorbia</tht:genus>
+		<tht:spesies>E.tirucalli</tht:spesies>
+		<tht:gambar rdf:resource="https://i1.wp.com/caratanam.com/wp-content/uploads/2015/12/Tanaman-Obat-Patah-Tulang.jpg"/>
+</tht:obat>
+
+<tht:obat rdf:about="https://caratanam.com/tanaman-obat/obat/Akar_wangi#">
+		<tht:nama>Akar Wangi</tht:nama>
+		<tht:ilmiah>Vetiveria zizanioides</tht:ilmiah>
+		<tht:asal>India</tht:asal>
+		<tht:manfaat>tanaman ini juga bisa dimanfaatkan sebagai obat. Kandungan vetiveron, asam vetivena, vetiverol, dan vetiverol ester yang ada di dalam tanaman ini sangat baik untuk tubuh. Salah satu manfaat dari tanaman ini adalah untuk mengobati rematik, pegel linu, batu ginjal, panas demam, serta bisa digunakan untuk mengobati bau mulut dan bau badan.</tht:manfaat>
+		<tht:famili>Poaceae</tht:famili>
+		<tht:genus>Chrysopogon</tht:genus>
+		<tht:spesies>C.zizanioides</tht:spesies>
+		<tht:gambar rdf:resource="https://i0.wp.com/caratanam.com/wp-content/uploads/2015/12/Tanaman-Obat-Akar-Wangi.jpg"/>
+</tht:obat>
+
+<tht:obat rdf:about="https://caratanam.com/tanaman-obat/obat/Akar_manis#">
+		<tht:nama>Akar Manis</tht:nama>
+		<tht:ilmiah>Liquorice</tht:ilmiah>
+		<tht:asal>Eropa Selatan</tht:asal>
+		<tht:manfaat>tanaman obat ini masih harus import dari luar negeri, karena di Indonesia belum ada yang membudidayakan tanaman obat ini. Dari hasil penelitian akar manis mengandung beberapa zat seperti Glikosida Likuiritin, Glisirhisin, Umbeliferona, Saponin, Glukosa, Asparagin, dan Glabrolida. Manfaat dari tanaman obat ini bisa mengobati penyakit tukak lambung, penyakit darah tinggi, dan penyakit batuk.</tht:manfaat>
+		<tht:famili>Fabaceae</tht:famili>
+		<tht:genus>Glycyrrhiza</tht:genus>
+		<tht:spesies>G.glabra</tht:spesies>
+		<tht:gambar rdf:resource="https://i0.wp.com/caratanam.com/wp-content/uploads/2015/12/Tanaman-Obat-Akar-Manis.jpg"/>
+</tht:obat>
+
+<tht:obat rdf:about="https://caratanam.com/tanaman-obat/obat/alpukat#">
+		<tht:nama>Alpukat</tht:nama>
+		<tht:ilmiah>Persea americana</tht:ilmiah>
+		<tht:asal>Amerika selatan</tht:asal>
+		<tht:manfaat>Manfaat dari alpukat diantaranya adalah untuk mengobati penyakit diambetes, pencegahan penyakit kanker, menurunkan kolestrol, kesehatan jantung, mngobati sakit maag dan juga sebagai minuman kesehatan yang mengandung berbagai vitamin.</tht:manfaat>
+		<tht:famili>Lauraceae</tht:famili>
+		<tht:genus>Persea</tht:genus>
+		<tht:spesies>P.Americana</tht:spesies>
+		<tht:gambar rdf:resource="https://i0.wp.com/caratanam.com/wp-content/uploads/2015/12/Tanaman-Obat-Alpukat.jpg"/>
+</tht:obat>
+
+<tht:obat rdf:about="https://caratanam.com/tanaman-obat/Daun_adas#">
+		<tht:nama>Daun Adas</tht:nama>
+		<tht:ilmiah>Foeniculum vulgare Miller</tht:ilmiah>
+		<tht:asal>Laut tengah timur</tht:asal>
+		<tht:manfaat>Manfaatnya untuk kesehatan bisa digunakan untuk mengobati anemia, mengatasi sembelit,mengobati sakit jantung, mencegah kanker, mengobati diare, melancarkan haid, mengobati sakit mata, obat sesak nafas dan lain sebaginya</tht:manfaat>
+		<tht:famili>Apiaceae</tht:famili>
+		<tht:genus>Foeniculum</tht:genus>
+		<tht:spesies>Foeniculum vurgare</tht:spesies>
+		<tht:gambar rdf:resource="https://i1.wp.com/caratanam.com/wp-content/uploads/2015/12/Tanaman-Obat-Daun-Adas.jpg"/>
+</tht:obat>
+
+
+<tht:obat rdf:about="https://caratanam.com/tanaman-obat/obat/Adem_ati#">
+		<tht:nama>Adem ati</tht:nama>
+		<tht:ilmiah>Simplisia Litseae glutinosae Radix</tht:ilmiah>
+		<tht:asal>Tropika dan Subtropika</tht:asal>
+		<tht:manfaat>Tanaman ini mengandung berbagai zat seperti Alkaloid (golongan fenantrena dan aporfina), flavonoida, tanin, polifenol, dan minyak atsiri. Manfaat dari adem ati adalah untuk mengobati berbagai penyakit diantaranya adalah kencing manis, radang usus, luka berdarah dan lain sebaginya.</tht:manfaat>
+		<tht:famili>Lauraceae</tht:famili>
+		<tht:genus>Litsea</tht:genus>
+		<tht:spesies>Lauraceae</tht:spesies>
+		<tht:gambar rdf:resource="https://i2.wp.com/caratanam.com/wp-content/uploads/2015/12/Tanaman-Obat-Adem-Ati.jpg"/>
+</tht:obat>
+
+<tht:obat rdf:about="https://caratanam.com/tanaman-obat/obat/Daun_andong#">
+		<tht:nama>Daun Andong</tht:nama>
+		<tht:ilmiah>Cordyline</tht:ilmiah>
+		<tht:asal>Afrika sampai Indonesia</tht:asal>
+		<tht:manfaat>Manfaat tanaman obat daun andong diantaranya adalah sebagai obat batuk berdarah, urine berdarah, haid terlalu banyak, obat diare atau disentri, mengatasi wasir, obat luka akibat sengatan binatang berbisa, mengobati radang gusi.</tht:manfaat>
+		<tht:famili>Asparagales</tht:famili>
+		<tht:genus>Cordyline</tht:genus>
+		<tht:spesies>Laxmanniaceae</tht:spesies>
+		<tht:gambar rdf:resource="https://i0.wp.com/caratanam.com/wp-content/uploads/2015/12/Tanaman-Obat-Daun-Andong-Merah.jpg"/>
+</tht:obat>
+
+<tht:obat rdf:about="https://caratanam.com/tanaman-obat/obat/Ciplukan#">
+		<tht:nama>Ciplukan</tht:nama>
+		<tht:ilmiah> Physalis angulata</tht:ilmiah>
+		<tht:asal>Mediterania</tht:asal>
+		<tht:manfaat>buah ini terkanal dengan manfaatnya yang baik untuk kesehatan. Bahkan di salah satu pusat perbelanjaan buah ini dijual dengan harga 500k/kg. Buah ini ternyata mempunyai khasiat untuk obat untuk penyakit asma, sakit tenggorokan, mengobati kencing manis, kanker payudara, sakit paru-paru dan lain sebaginya.</tht:manfaat>
+		<tht:famili>Solanaceae</tht:famili>
+		<tht:genus>Physalis</tht:genus>
+		<tht:spesies>P.angulata</tht:spesies>
+		<tht:gambar rdf:resource="https://i0.wp.com/caratanam.com/wp-content/uploads/2015/12/Tanaman-Obat-Ciplukan.jpg"/>
+</tht:obat>
+
+<tht:obat rdf:about="https://caratanam.com/tanaman-obat/obat/Cempaka_putih#">
+		<tht:nama>Cempaka putih</tht:nama>
+		<tht:ilmiah>Magnolia × alba </tht:ilmiah>
+		<tht:asal>Malaysia sampai Indonesia</tht:asal>
+		<tht:manfaat>Salah satu khasiat dari tanaman obat ini adalah untuk mengatasi bau badan dan ketiak, mengobati masalah vertigo (kepala pusing), mengatasi sinusitis, mengobati perut kembung, mengobati batuk rejan, mengobati keputihan, dan batuk berdahak.</tht:manfaat>
+		<tht:famili>Magnoliaceae</tht:famili>
+		<tht:genus>Magnolia</tht:genus>
+		<tht:spesies>M.alba</tht:spesies>
+        <tht:gambar rdf:resource="https://i2.wp.com/caratanam.com/wp-content/uploads/2015/12/Tanaman-Obat-Cempaka-Putih.jpg"/>
+</tht:obat>
+
+<tht:obat rdf:about="https://caratanam.com/tanaman-obat/obat/Brotowali#">
+		<tht:nama>Brotowali</tht:nama>
+		<tht:ilmiah>Tinospora cordifolia</tht:ilmiah>
+		<tht:asal>Indonesia</tht:asal>
+		<tht:manfaat>Tanaman ini terkenal dengan rasanya yang sangat pahit. Khasiat dari brotowali yakni bisa digunakan untuk mengobati rheumatik sendi, rheumatic arthritis, demam kuning, demam, malaria, kencing manis, diabetes, serta penyakit luar seperti memar, kudis, dan luka.</tht:manfaat>
+		<tht:famili>Menispermaceae</tht:famili>
+		<tht:genus>Tinospora</tht:genus>
+		<tht:spesies>Tinospora cordifolia</tht:spesies>
+		<tht:gambar rdf:resource="https://i2.wp.com/caratanam.com/wp-content/uploads/2015/12/Tanaman-Obat-Brotawali.jpg"/>
+</tht:obat>
+
+
+<tht:obat rdf:about="https://caratanam.com/tanaman-obat/obat/Daun_benalu#">
+		<tht:nama>Daun Benalu</tht:nama>
+		<tht:ilmiah>Loranthus</tht:ilmiah>
+		<tht:asal>Hutan Tropis</tht:asal>
+		<tht:manfaat>Meski dikenal sebagai tanaman penganggu karena menyerap nutrisi dari tanaman lain, ternyata benalu mempunyai kandungan zat yang bermanfaat untuk kesehatan. Salah satunya bisa mengobati nyeri pinggang, kencing yang tidak lancar dan juga gangguan pada kelenjar prostat, tumor, amandel kanker, dan juga gangguan pada organ usus.</tht:manfaat>
+		<tht:famili>Loranthaceae</tht:famili>
+		<tht:genus>Loranthus</tht:genus>
+		<tht:spesies>Loranthus</tht:spesies>
+		<tht:gambar rdf:resource="https://i0.wp.com/caratanam.com/wp-content/uploads/2015/12/Tanaman-Obat-Daun-Benalu.jpg"/>
+</tht:obat>
+
+
+<tht:obat rdf:about="https://caratanam.com/tanaman-obat/obat/Daun_sisik_naga#">
+		<tht:nama>Daun sisik naga</tht:nama>
+		<tht:ilmiah>Pyrrosia piloselloides</tht:ilmiah>
+		<tht:asal>Seluruh Dunia</tht:asal>
+		<tht:manfaat>Jenis penyakit yang disembuhkan seperti keputihan (leukore), kanker payudara, perdarahan pada perempuan, rematik, perdarahan, mimisan, berak darah,  sakit perut, disentri, kencing nanah, dan TBC kulit dengan pembesaran kelenjar getah bening.</tht:manfaat>
+		<tht:famili>Polyposiaceae</tht:famili>
+		<tht:genus>Pyrrosia</tht:genus>
+		<tht:spesies>P.piloselloides</tht:spesies>
+        <tht:gambar rdf:resource="https://i1.wp.com/caratanam.com/wp-content/uploads/2015/12/Tanaman-Obat-Daun-Sisik-Naga.jpg"/>
+</tht:obat>
+
+<tht:obat rdf:about="https://caratanam.com/tanaman-obat/obat/Daun_cakar_ayam#">
+		<tht:nama>Daun Cakar ayam</tht:nama>
+		<tht:ilmiah>Selaginella doederleinii Hieron</tht:ilmiah>
+		<tht:asal>Asia tropik</tht:asal>
+		<tht:manfaat>Khasiat dari tanaman obat ini adalah untuk antineoplasma, penghenti pendarahan (hemostatis), kanker paru, bronkhitis, tonsilis, batuk, bronkhitis, radang paru, infeksi saluran kencing, tulang patah, koreng, hepatitis, perut busung dan menghilangkan bengkak.</tht:manfaat>
+		<tht:famili>Selaginellales</tht:famili>
+		<tht:genus>Selaginellaceae</tht:genus>
+		<tht:spesies>Selaginella</tht:spesies>
+		<tht:gambar rdf:resource="https://i1.wp.com/caratanam.com/wp-content/uploads/2015/12/Tanaman-Obat-Daun-Cakar-Ayam.jpg"/>
+</tht:obat>
+
+
+<tht:obat rdf:about="https://caratanam.com/tanaman-obat/obat/Biji_mahoni#">
+		<tht:nama>Biji Mahoni</tht:nama>
+		<tht:ilmiah>Swietenia mahagoni</tht:ilmiah>
+		<tht:asal>Hindia Barat</tht:asal>
+		<tht:manfaat>Manfaat dari biji mahoni bisa dijadikan salah satu bahan pembuat obat. Jenis penyakit yang bisa diobati dengan biji mahoni adalah rematik, kurang napsu makan, masuk angin, demam,  dan ekzema.</tht:manfaat>
+		<tht:famili>Meliaceae</tht:famili>
+		<tht:genus>Wwietenia</tht:genus>
+		<tht:spesies>S.macrophylla</tht:spesies>
+		<tht:gambar rdf:resource="https://i2.wp.com/caratanam.com/wp-content/uploads/2015/12/Tanaman-Obat-Biji-Mahoni.jpg"/>
+</tht:obat>
+
+
+<tht:obat rdf:about="https://caratanam.com/tanaman-obat/obat/Daun_jinten#">
+		<tht:nama>Daun Jinten</tht:nama>
+		<tht:ilmiah>Plectranthus amboinicus sin</tht:ilmiah>
+		<tht:asal>Swaziland</tht:asal>
+		<tht:manfaat>Daun jinten mempunyai banyak sekali manfaat untuk kesehatan, diantaranya untuk mengobati perut kembung, obat sakit kepala,  mengobati penyakit ayan, menyuburkan ASI, mengobati rematik, serta mengembalikan kekebalan tubuh.</tht:manfaat>
+		<tht:famili>Lamiaceae</tht:famili>
+		<tht:genus>Plecrtanthus</tht:genus>
+		<tht:spesies>Pamboinicus</tht:spesies>
+		<tht:gambar rdf:resource="https://i2.wp.com/caratanam.com/wp-content/uploads/2015/12/Tanaman-Obat-Daun-Jinten.jpg"/>
+</tht:obat>
+
+<tht:obat rdf:about="https://caratanam.com/tanaman-obat/obat/Anjeran#">
+		<tht:nama>Anjeran</tht:nama>
+		<tht:ilmiah>Bidens pilosa L</tht:ilmiah>
+		<tht:asal>Seluruh Dunia</tht:asal>
+		<tht:manfaat>Manfaat dari daun ajeran adalah untuk menurunkan demam dengan cara merebus dan meminum air rebusannya. Selain itu bisa juga digunakan untuk mencuci mata, caranya dengan merebusnya kemudian tunggu sampai air rebusan dingin baru digunakan untuk mencuci mata.</tht:manfaat>
+		<tht:famili>Asteraceae</tht:famili>
+		<tht:genus>Bidens</tht:genus>
+		<tht:spesies>B.pilosa</tht:spesies>
+		<tht:gambar rdf:resource="https://i1.wp.com/caratanam.com/wp-content/uploads/2015/12/Tanaman-Obat-Daun-Ajeran.jpg"/>
+</tht:obat>
+</rdf:RDF>
